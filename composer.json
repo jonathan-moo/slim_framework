@@ -1,0 +1,13 @@
+{
+    "name": "jonathanmoo/slim_framework",
+    "description": "Example tutorial",
+    "authors": [
+        {
+            "name": "Jonathan Moo",
+            "email": "jonathan.moo@gefyra.co"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.24"
+    }
+}
